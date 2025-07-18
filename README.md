@@ -47,7 +47,7 @@ I'm a data analyst passionate about uncovering hidden stories in data and transf
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=locampocam&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
-
+<br>
 
 ## Tech Stack
 
@@ -114,7 +114,7 @@ Identified optimal locations for labs and vaccination centers in LATAM using ETL
 #### AI & Automation Efficiency at VM COMPANY
 Implemented AI and automation solutions in operations, integrating ChatGPT, Zapier, and no-code tools to optimize processes and decision-making.
 
-
+<br>
 
 ## 💼 Experience
 
@@ -126,6 +126,9 @@ Monitored, optimized, and documented SQL database management and system alerts.
 
 **📚 Consulting & Training**  
 Courses and mentorship in AI, automation, LinkedIn, productivity, and professional development.
+
+
+<br>
 
 ---
 
