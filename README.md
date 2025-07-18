@@ -1,6 +1,6 @@
 <!-- Imagen de perfil centrada -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Digital_rain_animation_big_letters_black_and_white.gif" height="200" />
+  <img src="https://yt3.ggpht.com/OW4LPu32YcXfT-KssqDf0-R5jGV59jw6Fp3j_gkVzfvxJYnHBonxloHQ2wTcHd1jK3Sf5dPXyxnsabs=s400-c-fcrop64=1,199a0000e666ffff-nd-v1-rwa" height="200" />
 </p>
 
 
