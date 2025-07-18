@@ -2,13 +2,13 @@
   <img src="https://i.gifer.com/origin/6d/6dca36888ff7930293168c2c720e0ed8_w200.gif" height="200" />
 </p>
 
-<p align="center">
+<h align="center">
 # Hi, I'm Laura Ocampo!
 
 **Data Analyst | AI & Automation | Project Management | Process Improvement | English | Japanese | Portuguese**
 
 ---
-</p>
+</h>
 
 ### About Me
 
