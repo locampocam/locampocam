@@ -1,14 +1,15 @@
 <p align="center">
   <img src="https://i.gifer.com/origin/6d/6dca36888ff7930293168c2c720e0ed8_w200.gif" height="200" />
 </p>
+---
 
-<h align="center">
+<h1 align="center">
 # Hi, I'm Laura Ocampo!
 
 **Data Analyst | AI & Automation | Project Management | Process Improvement | English | Japanese | Portuguese**
 
 ---
-</h>
+</h1>
 
 ### About Me
 
@@ -57,11 +58,6 @@ I'm a data analyst passionate about uncovering hidden stories in data and transf
 
 ---
 
-### 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VkFXRw9Uwf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/locampocam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:locampocam@gmail.com)
-
----
 
 ### “The key is to combine data, creativity, and people to create solutions that transform realities.”
 
