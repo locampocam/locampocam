@@ -101,17 +101,20 @@ I'm a data analyst passionate about uncovering hidden stories in data and transf
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 
+<br>
 
 ## 🚀 Latest Projects
 
-### **Inventory Optimization for AMC-Drinks**
-Reduced stock imbalances and storage costs through ABC analysis, automated reporting, and interactive dashboards using MySQL, Power BI, and Python.
+#### [📦 Inventory Optimization for AMC-Drinks](https://github.com/locampocam/Analisis_Inventario_Distribuidora_Licores_AMC)
+DrinksReduced stock imbalances and storage costs through ABC analysis, automated reporting, and interactive dashboards using MySQL, Power BI, and Python.
 
-### **Strategic Expansion in Healthcare (Biogenesys)**
+#### [📦 Strategic Expansion in Healthcare (Biogenesys)](https://github.com/locampocam/M4_Biogenesys_Expansion)
 Identified optimal locations for labs and vaccination centers in LATAM using ETL, dashboards, and predictive analysis with Power BI, Python, and MySQL.
 
-### **AI & Automation Efficiency at VM COMPANY**
+#### AI & Automation Efficiency at VM COMPANY
 Implemented AI and automation solutions in operations, integrating ChatGPT, Zapier, and no-code tools to optimize processes and decision-making.
+
+
 
 ## 💼 Experience
 
