@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMzIyODkxMi8xOTI4OTI5NC5naWY=/original/IBsFH4.gif" height="200" />
+  <img src="https://i.gifer.com/origin/6d/6dca36888ff7930293168c2c720e0ed8_w200.gif" height="200" />
 </p>
 
 
-# Hi, I'm Laura Ocampo! 👋
+# Hi, I'm Laura Ocampo!
 
 **Data Analyst | AI & Automation | Project Management | Process Improvement | English | Japanese | Portuguese**
 
