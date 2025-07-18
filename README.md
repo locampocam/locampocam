@@ -12,11 +12,7 @@
   </a>
     <a href="mailto:locampocam@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="email logo" />
-  </a>
-  <a href="https://discord.gg/VkFXRw9Uwf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo" />
-  </a>
-
+ 
 </p>
 
 
@@ -103,7 +99,7 @@ I'm a data analyst passionate about uncovering hidden stories in data and transf
 
 <br>
 
-## 🚀 Latest Projects
+## Latest Projects
 
 #### [📦 Inventory Optimization for AMC-Drinks](https://github.com/locampocam/Analisis_Inventario_Distribuidora_Licores_AMC)
 DrinksReduced stock imbalances and storage costs through ABC analysis, automated reporting, and interactive dashboards using MySQL, Power BI, and Python.
@@ -116,7 +112,7 @@ Implemented AI and automation solutions in operations, integrating ChatGPT, Zapi
 
 <br>
 
-## 💼 Experience
+## Experience
 
 **🤖 Leader in AI, Automation & Process Improvement**  
 Implemented AI and automation in companies, optimized repetitive tasks, and led projects with an agile approach.
@@ -129,6 +125,16 @@ Courses and mentorship in AI, automation, LinkedIn, productivity, and profession
 
 
 <br>
+
+## Links
+
+[![🎨 Visual Arts](https://img.shields.io/badge/Visual%20Arts-Portfolio-0077B5?style=for-the-badge&logo=palette&logoColor=white&labelColor=101010)](https://your-portfolio-url.com)
+
+[![📖 Blog](https://img.shields.io/badge/Blog-Articles-000000?style=for-the-badge&logo=book&logoColor=white&labelColor=101010)](https://your-blog-url.com)
+
+[![Discord](https://img.shields.io/badge/Discord-Japanese%20Learning%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/VkFXRw9Uwf)
+<br>
+
 
 ---
 
