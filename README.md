@@ -4,7 +4,6 @@
 </p>
 
 
-
 <!-- Botones sociales centrados -->
 <p align="center">
   <a href="https://linkedin.com/in/locampocam" target="_blank">
@@ -133,6 +132,7 @@ Courses and mentorship in AI, automation, LinkedIn, productivity, and profession
 [![📖 Blog](https://img.shields.io/badge/Blog-Articles-000000?style=for-the-badge&logo=book&logoColor=white&labelColor=101010)](https://your-blog-url.com)
 
 [![Discord](https://img.shields.io/badge/Discord-Japanese%20Learning%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/VkFXRw9Uwf)
+
 <br>
 
 
