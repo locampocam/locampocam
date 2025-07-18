@@ -1,10 +1,7 @@
-###
+<p align="center">
+  <img src="https://img.itch.zone/aW1hZ2UvMzIyODkxMi8xOTI4OTI5NC5naWY=/original/IBsFH4.gif" height="200" />
+</p>
 
-<div align="center">
-  <img height="200" src="https://img.itch.zone/aW1hZ2UvMzIyODkxMi8xOTI4OTI5NC5naWY=/original/IBsFH4.gif"  />
-</div>
-
-###
 
 # Hi, I'm Laura Ocampo! 👋
 
@@ -23,6 +20,7 @@ I'm a data analyst passionate about uncovering hidden stories in data and transf
 ---
 
 ### Developer 
+
 ![](https://nirzak-streak-stats.vercel.app/?user=locampocam&theme=dark&hide_border=false)<br/>
 
 ---
