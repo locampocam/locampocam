@@ -23,9 +23,9 @@
 
 <br>
 
-# Laura Ocampo - Data Analyst
+# Laura Ocampo - AI & Automation
 <h3 >
-Data Analyst | AI & Automation | Project Management | Process Improvement | English | Japanese | Portuguese
+Data Analyst | Project Management | Process Improvement | English | Japanese | Portuguese
 </h3>
 <br>
 
