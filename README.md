@@ -1,15 +1,29 @@
 <p align="center">
   <img src="https://i.gifer.com/origin/6d/6dca36888ff7930293168c2c720e0ed8_w200.gif" height="200" />
 </p>
+
+
+<h1 align="center">Hi, I'm Laura Ocampo!</h1>
+<p align="center">
+  <a href="https://discord.gg/VkFXRw9Uwf">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
+
+  <a href="https://linkedin.com/in/locampocam">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+  <a href="mailto:locampocam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"/>
+</p>
+
+<h3 align="center">
+  Data Analyst | AI & Automation | Project Management | Process Improvement | English | Japanese | Portuguese
+</h3>
+
+
+
+
+
 ---
-
-<h1 align="center">
-# Hi, I'm Laura Ocampo!
-
-**Data Analyst | AI & Automation | Project Management | Process Improvement | English | Japanese | Portuguese**
-
----
-</h1>
 
 ### About Me
 
