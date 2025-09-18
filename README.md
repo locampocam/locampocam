@@ -39,7 +39,7 @@ I'm a data analyst passionate about uncovering hidden stories in data and transf
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=locampocam&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=locampocam&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <br>
