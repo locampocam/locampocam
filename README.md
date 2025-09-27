@@ -100,7 +100,7 @@ I'm a data analyst passionate about uncovering hidden stories in data and transf
 
 ## Latest Projects
 
-#### [📦 Inventory Optimization for AMC-Drinks](https://github.com/locampocam/Analisis_Inventario_Distribuidora_Licores_AMC)
+#### [📦 Inventory Optimization for AMC-Drinks](https://github.com/locampocam/Analisis_Inventario_Distribuidora_Licores_AMCDrinks)
 DrinksReduced stock imbalances and storage costs through ABC analysis, automated reporting, and interactive dashboards using MySQL, Power BI, and Python.
 
 #### [📦 Strategic Expansion in Healthcare (Biogenesys)](https://github.com/locampocam/M4_Biogenesys_Expansion)
