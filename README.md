@@ -103,7 +103,7 @@ I'm a data analyst passionate about uncovering hidden stories in data and transf
 #### [📦 Inventory Optimization for AMC-Drinks](https://github.com/locampocam/Analisis_Inventario_Distribuidora_Licores_AMCDrinks)
 DrinksReduced stock imbalances and storage costs through ABC analysis, automated reporting, and interactive dashboards using MySQL, Power BI, and Python.
 
-#### [📦 Strategic Expansion in Healthcare (Biogenesys)](https://github.com/locampocam/M4_Biogenesys_Expansion)
+#### [📦 Strategic Expansion in Healthcare (Biogenesys)](https://locampoc.wixsite.com/portfolio/biogenesys-python)
 Identified optimal locations for labs and vaccination centers in LATAM using ETL, dashboards, and predictive analysis with Power BI, Python, and MySQL.
 
 #### AI & Automation Efficiency at VM COMPANY
