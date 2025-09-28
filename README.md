@@ -130,7 +130,7 @@ Courses and mentorship in AI, automation, LinkedIn, productivity, and profession
 
 ## Links
 
-[![🎨 Visual Arts](https://img.shields.io/badge/Visual%20Arts-Portfolio-0077B5?style=for-the-badge&logo=palette&logoColor=white&labelColor=101010)](https://locampoc.wixsite.com/portfolio)
+[![🎨 Tech](https://img.shields.io/badge/%20Tech-Portfolio-0077B5?style=for-the-badge&logo=palette&logoColor=white&labelColor=101010)](https://locampoc.wixsite.com/portfolio)
 
 [![📖 Blog](https://img.shields.io/badge/Blog-Articles-000000?style=for-the-badge&logo=book&logoColor=white&labelColor=101010)](https://locampoc.wixsite.com/portfolio/blog)
 
