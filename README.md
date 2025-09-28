@@ -106,7 +106,7 @@ DrinksReduced stock imbalances and storage costs through ABC analysis, automated
 #### [📦 Strategic Expansion in Healthcare (Biogenesys)](https://locampoc.wixsite.com/portfolio/biogenesys-python)
 Identified optimal locations for labs and vaccination centers in LATAM using ETL, dashboards, and predictive analysis with Power BI, Python, and MySQL.
 
-#### [📦 Los Otros Ojos: Interactive Web Experience](https://locampoc.wixsite.com/portfolio/tech-projects)
+#### [📦 Los Otros Ojos: Interactive Web Experience](https://locampoc.wixsite.com/portfolio/web-page)
 Static website project built with HTML, CSS, JavaScript, and PHP. Includes a multimedia slider, embedded YouTube videos, concept art gallery, interactive 3D models via Sketchfab, and a functional contact form with PHP backend.
 
 #### AI & Automation Efficiency at VM COMPANY
